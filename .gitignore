@@ -252,4 +252,4 @@ $RECYCLE.BIN/
 # Working Files
 work.ipynb
 urls.txt
-output.html
+output/
